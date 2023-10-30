@@ -2,4 +2,4 @@ GitHub Pages sivuni, jossa Jekyll-teema
 ## Tervetuloa Github Pages -sivustolleni
 Tämä on toinen Github Pages -teksti.
 
-[Tässä on tällainen linkkitesti](https://www.haaga-helia.fi/fi)
+Tässä linkki [Haaga-Helian sivustolle](https://www.haaga-helia.fi/fi)
