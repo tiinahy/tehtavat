@@ -2,8 +2,4 @@ title: Hello world!
 description: Tervetuloa maailman parhaalle sivustolle.
 theme: jekyll-theme-cayman
 
-header_pages:
--index.md
--vko2.md
-
 github_username: tiinahy
