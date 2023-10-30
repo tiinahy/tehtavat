@@ -1,5 +1,6 @@
 title: Hello world!
 description: Tervetuloa maailman parhaalle sivustolle.
 theme: jekyll-theme-yat
+$ bundle
 
 github_username: tiinahy
